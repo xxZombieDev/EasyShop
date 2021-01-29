@@ -65,8 +65,9 @@ $apiContext = new \PayPal\Rest\ApiContext(
 ### Panel de Administración
 
 EASYSHOP cuenta con un Panel de Administración... Las credenciales por defecto para ingresar son:
-Usuario: admin
-Contraseña: 123
+
+- Usuario: admin
+- Contraseña: 123
 
 En este panel podras consultar y manipular diferentes modulos, entre ellos:
 - Administración de Usuarios
@@ -80,20 +81,20 @@ Para acceder a el tecla la ruta localhost/NombreDelProyecto/admin
 
 ## Capturas
 ### Panel de Administración
-![image](screens/admin-panel.png) 
+![image](screens/admin-panel.PNG) 
 
-![image](screens/dashboard.png)
+![image](screens/dashboard.PNG)
 
 ### Pagina Principal
-![image](screens/principal.png)
+![image](screens/principal.PNG)
 
 ### Productos
-![image](screens/productos.png)
+![image](screens/productos.PNG)
 
-![image](screens/detalle-producto.png)
+![image](screens/detalle-producto.PNG)
 
 ### Carrito de Compras
-![image](screens/carrito.png)
+![image](screens/carrito.PNG)
 
 ## Tecnologías Empleadas 
 
